@@ -1,0 +1,2 @@
+rootProject.name = "cliff_screen"
+include ':app'

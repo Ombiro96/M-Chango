@@ -1,0 +1,7 @@
+com/example/cliff_screen/BuildConfig.java
+ com.example.cliff_screen.BuildConfig
+com/example/cliff_screen/LoginActivity.java
+ com.example.cliff_screen.LoginActivity
+com/example/cliff_screen/splash_screen.java
+ com.example.cliff_screen.splash_screen
+ com.example.cliff_screen.splash_screen$1

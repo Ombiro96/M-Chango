@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.197" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/drawable/buttons_background.xml" value="0.197" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/drawable/header_background.xml" value="0.197" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.197" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.197" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/drawable/ic_launcher_background.xml" value="0.197" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/drawable/navigation_selected.xml" value="0.1" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/drawable/navigation_selector.xml" value="0.1" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/layout/activity_charity_organization.xml" value="0.21683309557774608" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/layout/activity_donor_registration.xml" value="0.26807760141093473" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/layout/activity_main.xml" value="0.15979381443298968" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/layout/activity_profile.xml" value="0.11742424242424243" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/layout/activity_select_do_c.xml" value="0.22" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/layout/activity_splash_main.xml" value="0.22" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/layout/header.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/layout/user_display_layout.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/bakut/Desktop/cliff_screen/app/src/main/res/menu/main_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
